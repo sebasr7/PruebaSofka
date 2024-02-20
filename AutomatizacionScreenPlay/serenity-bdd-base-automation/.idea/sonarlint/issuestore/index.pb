@@ -3,26 +3,16 @@ l
 <src/main/java/com/reliquias/software/utils/UrlPaginaWeb.java,f\6\f691c1ac7905dbb06e07b3d40d3e3f38cb3f4ba8
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-|
-Lsrc/main/java/com/reliquias/software/userinterfaces/MenuPaginaPrincipal.java,8\d\8df24d338d3b473d654967bc709705a8f8cd3fa0
 C
 serenity.properties,2\5\25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c
 ?
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-m
-=src/test/java/com/reliquias/software/runners/LoginRunner.java,a\a\aa7b0c7ae60b78a815ac612f0cadf069f8afdc2b
 z
 Jsrc/test/java/com/reliquias/software/stepdefinitions/ParameterTypeDef.java,3\9\39e4388819e27bb456b1131825c5281c49584507
-x
-Hsrc/test/java/com/reliquias/software/stepdefinitions/AgregarCarrito.java,7\e\7e080086e89331ed57d10d934e0d2f502c120425
 p
 @src/main/java/com/reliquias/software/models/UsuarioGenerico.java,c\5\c5ff486aad86b24c723587f566343d32f3c61637
-l
-<src/main/java/com/reliquias/software/tasks/AgregarPhone.java,e\b\ebeaf70dc4ed3c1b1c4c654dcfc11613df72b400
-u
-Esrc/main/java/com/reliquias/software/userinterfaces/PaginaPhones.java,b\4\b4e1a000aaf68b181a7580868d3a702465d9234e
 x
 Hsrc/main/java/com/reliquias/software/userinterfaces/PaginaPrincipal.java,9\b\9b23a1ab29e2e5d3b9011d6ac21889da9a141650
 p

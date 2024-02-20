@@ -1,0 +1,29 @@
+Conclusiones de la prueba
+
+Opiniones:
+
+La automatización de la prueba de compra permitió realizar el proceso de forma rápida y eficiente.
+Se logró identificar algunos errores en el proceso de compra que no se habían detectado manualmente como identificadores.
+La prueba automatizada puede ser una herramienta valiosa para mejorar la calidad del proceso de compra.
+
+Consideraciones:
+
+Es importante diseñar la prueba automatizada de forma que cubra todos los escenarios posibles de compra.
+Se debe realizar un mantenimiento regular de la prueba automatizada para asegurar que siga funcionando correctamente.
+La prueba automatizada no debe reemplazar completamente las pruebas manuales.
+
+Observaciones:
+
+La prueba automatizada se ejecutó sin errores en el entorno de prueba.
+Se identificaron algunos errores en el proceso de compra, como la falta de validación de algunos campos del formulario.
+
+Recomendaciones:
+
+Se recomienda corregir los errores identificados en el proceso de compra.
+Se recomienda optimizar el proceso de compra para hacerlo más rápido.
+Se recomienda realizar pruebas automatizadas de forma regular para asegurar la calidad del proceso de compra.
+Además de las opiniones, consideraciones y observaciones mencionadas anteriormente, también se pueden incluir las siguientes:
+
+Tiempo de ejecución de la prueba: Se puede indicar el tiempo que tardó en ejecutarse la prueba automatizada.
+Recursos utilizados: Se puede indicar la cantidad de recursos (CPU, memoria, etc.) que utilizó la prueba automatizada.
+Leer el el documento Readme para una mejor ejecucion de la prueba y detalle del Entorno de prueba

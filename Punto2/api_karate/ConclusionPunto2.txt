@@ -1,0 +1,26 @@
+Hallazgos:
+
+Se automatizaron exitosamente las pruebas de los servicios REST de la página https://www.demoblaze.com/ utilizando Karate DSL.
+Se implementaron pruebas de tipo POST.
+Se validaron las respuestas de los servicios REST utilizando assertions.
+Se generó un informe de Karate que documenta la ejecución de las pruebas.
+Se realiza lo mas sencillo posible bajo las recomendaciones de Karate.
+
+
+Conclusiones:
+
+Karate DSL es una herramienta efectiva, simple y sencilla para automatizar pruebas de servicios REST.
+La automatización de pruebas de servicios REST permite mejorar la calidad y confiabilidad de la API.
+El uso de assertions permite validar la corrección de las respuestas de los servicios REST.
+La generación de informes facilita la revisión y análisis de los resultados de las pruebas.
+
+Recomendaciones:
+
+Se recomienda ampliar la cobertura de las pruebas automatizando más casos de prueba en mas metodos.
+Además de los hallazgos y conclusiones mencionados anteriormente, también se pueden incluir las siguientes:
+
+Tiempo de ejecución de las pruebas: Se puede indicar el tiempo que tardaron en ejecutarse las pruebas automatizadas.
+Recursos utilizados: Se puede indicar la cantidad de recursos (CPU, memoria, etc.) que utilizaron las pruebas automatizadas.
+
+
+Es importante que los hallazgos, informes y conclusiones del ejercicio de automatización sean claros, concisos y relevantes Que  deben ayuden a los stakeholders a comprender los resultados del ejercicio y tomar decisiones informadas.
